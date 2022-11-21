@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gyeltshen-aka
-- 👀 I’m interested in knowing what is helpful and whuch makes me interested in exploring a bit of IT.
-- 🌱 I’m currently learning BSc in Information technology
+- 👋 Hi, I’m @gyeltshen Mk
+- 👀 I’m interested in knowing what is helpful and which makes me interested in exploring IT.
+- 🌱 I’m currently pursuing BSc in Information technology degree
 - 📫 How to reach me ugyeltogchuu98@gmail.com
 
 <!---
